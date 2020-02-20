@@ -3,4 +3,4 @@ Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
 
 
-Sitemap: http://www.creatuve.es/sitemap.xml.gz
+Sitemap: https://creatuve.es/sitemap.xml.gz
